@@ -3,7 +3,7 @@ M.A. Research Paper
 
 A simple matching function between the number of unemployed workers ("U") and the number of job vacancies ("V") can be written as:
 $$H=m(U,V)$$
-Let $q$ denote the Poisson arrival rate of a vacancy being filled:
+where $H$ is the number of new hires. Let $q$ denote the Poisson arrival rate of a vacancy being filled:
 $$q(U,V)={m(U,V)\over V}$$
 We can model job vacancies over time as:
 $$v(t)=V_0(1-q)^t$$
