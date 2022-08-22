@@ -1,5 +1,6 @@
 # MAPaper
 M.A. Research Paper
+
 A simple matching function between the number of unemployed workers ("U") and the number of job vacancies ("V") can be written as:
 $$H=m(U,V)$$
 Let $q$ denote the daily Poisson arrival rate of a vacancy being filled:
